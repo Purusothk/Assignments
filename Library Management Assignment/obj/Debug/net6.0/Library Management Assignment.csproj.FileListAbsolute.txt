@@ -1,0 +1,14 @@
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\bin\Debug\net6.0\Library Management Assignment.exe
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\bin\Debug\net6.0\Library Management Assignment.deps.json
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\bin\Debug\net6.0\Library Management Assignment.runtimeconfig.json
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\bin\Debug\net6.0\Library Management Assignment.dll
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\bin\Debug\net6.0\Library Management Assignment.pdb
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.AssemblyInfoInputs.cache
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.AssemblyInfo.cs
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.csproj.CoreCompileInputs.cache
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.dll
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\refint\Library Management Assignment.dll
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.pdb
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\Library Management Assignment.genruntimeconfig.cache
+C:\Users\n.k.purusothaman\source\repos\Library Management Assignment\obj\Debug\net6.0\ref\Library Management Assignment.dll
